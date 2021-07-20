@@ -1,0 +1,4 @@
+node_modules
+server/public/main.js*
+.env
+.DS_Store
